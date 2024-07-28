@@ -6,3 +6,5 @@ Generamos 3 gráficos:
 - Histograma
 - Gráfico de dispersión
 - Boxplot
+
+**Link a la aplicación**: https://trtn-proyecto5-1.onrender.com
